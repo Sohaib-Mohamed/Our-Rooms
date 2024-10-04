@@ -1,0 +1,37 @@
+*{
+padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+}
+.left{
+    width: 50%;
+    background-color: bisque;
+    height: 630px;
+}
+.head{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    width: 600px;
+    display: block;
+    margin: auto;
+margin-left: auto;
+margin-right: auto;
+margin-top: 130px;
+}
+.div{
+    height: 630px;
+    width: 50%;
+}
+section{
+    display: flex;
+}
+h1{
+    margin-top: 280px;
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
